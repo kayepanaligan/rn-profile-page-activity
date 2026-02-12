@@ -18,7 +18,7 @@ Create a **Profile Page** using **React Native + TypeScript**. Your page should 
 
 ### 2. Clone Your Fork
 ```bash
-git clone https://github.com/<your-username>/rn-profile-assignment.git
+git clone https://github.com/kayepanaligan/rn-profile-assignment.git
 cd rn-profile-assignment
 bash
 ```
